@@ -1,0 +1,23 @@
+body{
+  background:#020617;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.box{
+  background:#0f172a;
+  color:white;
+  padding:30px;
+  border-radius:12px;
+  width:300px;
+  text-align:center;
+}
+
+input{
+  width:100%;
+  padding:8px;
+  margin-top:10px;
+}
